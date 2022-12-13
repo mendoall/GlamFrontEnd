@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\wamp64\www\Proyecto final pt2\Glam Make Up.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\wamp64\www\Proyecto final pt2\citas.php"/>
+  <file name="C:\wamp64\www\Proyecto final pt2\p-baseMoira.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1650468428251" name="C:\wamp64\www\Proyecto final pt2\s-reductivo.html"/>
+  <file crc="1650468428247" name="C:\wamp64\www\Proyecto final pt2\s-plasmaPen.html"/>
+  <file crc="1650468428243" name="C:\wamp64\www\Proyecto final pt2\s-pestañas.html"/>
+  <file crc="1650468428237" name="C:\wamp64\www\Proyecto final pt2\s-peeling.html"/>
+  <file crc="1650468428231" name="C:\wamp64\www\Proyecto final pt2\s-limpMicro.html"/>
+  <file crc="1650468428226" name="C:\wamp64\www\Proyecto final pt2\s-lash.html"/>
+  <file crc="1650468428221" name="C:\wamp64\www\Proyecto final pt2\s-ipl.html"/>
+  <file crc="1650468428214" name="C:\wamp64\www\Proyecto final pt2\s-hydra.html"/>
+  <file crc="1650468428209" name="C:\wamp64\www\Proyecto final pt2\s-dermaPen.html"/>
+  <file crc="1650468428204" name="C:\wamp64\www\Proyecto final pt2\s-depilacion.html"/>
+  <file crc="1650468428197" name="C:\wamp64\www\Proyecto final pt2\Promociones.html"/>
+  <file crc="1650468456790" name="C:\wamp64\www\Proyecto final pt2\principal.html"/>
+  <file crc="1650468428192" name="C:\wamp64\www\Proyecto final pt2\p-vitaminaC.html"/>
+  <file crc="1650468428187" name="C:\wamp64\www\Proyecto final pt2\p-selladorMoira.html"/>
+  <file crc="1650468428181" name="C:\wamp64\www\Proyecto final pt2\p-purexpert.html"/>
+  <file crc="1650468428175" name="C:\wamp64\www\Proyecto final pt2\p-primerSorme.html"/>
+  <file crc="1650468428171" name="C:\wamp64\www\Proyecto final pt2\p-limpiadoraSeytu.html"/>
+  <file crc="1650468428164" name="C:\wamp64\www\Proyecto final pt2\p-espumaCosta.html"/>
+  <file crc="1650468428158" name="C:\wamp64\www\Proyecto final pt2\p-contornoSeytu.html"/>
+  <file crc="1650468428151" name="C:\wamp64\www\Proyecto final pt2\p-brochasBeauty.html"/>
+  <file crc="1650468428142" name="C:\wamp64\www\Proyecto final pt2\p-baseSorme.html"/>
+  <file crc="1650468428135" name="C:\wamp64\www\Proyecto final pt2\p-baseMoira.html"/>
+  <file crc="1650048082240" name="C:\wamp64\www\Proyecto final pt2\estilos.css"/>
+  <file crc="1650468557334" name="C:\wamp64\www\Proyecto final pt2\citas.php"/>
+  <file crc="1650467538182" name="C:\wamp64\www\Proyecto final pt2\citas.html"/>
+ </filescache>
+</project>
